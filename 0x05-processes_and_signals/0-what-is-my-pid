@@ -1,3 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+#Retrievin and displaying the PID
+
 echo $$
 
