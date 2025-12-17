@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script to filter all processes and show only lines containing "bash"
+
+ps -ef | grep bash
