@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Run indefinitely but also react to termination signals in a custom way
 
 trap 'echo "I am invincible!!!"' SIGTERM
 
