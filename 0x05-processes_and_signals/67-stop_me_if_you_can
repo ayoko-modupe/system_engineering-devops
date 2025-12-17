@@ -2,3 +2,4 @@
 #Script to stop 4-to_infinity_and_beyond WITHOUT using kill or killall
 
 pkill -f 7-highlander
+echo "OK"
